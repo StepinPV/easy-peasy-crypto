@@ -1,1 +1,5 @@
-# crypto-notifications
+# Crypto Alerter
+
+Telegram Web App для отслеживания цен криптовалют и создания ценовых алертов.
+
+## Структура проекта
